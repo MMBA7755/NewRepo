@@ -1,0 +1,11 @@
+C:\Users\MohanB\source\repos\StudentDataImport\bin\Debug\StudentDataImport.exe.config
+C:\Users\MohanB\source\repos\StudentDataImport\bin\Debug\StudentDataImport.exe
+C:\Users\MohanB\source\repos\StudentDataImport\bin\Debug\StudentDataImport.pdb
+C:\Users\MohanB\source\repos\StudentDataImport\obj\Debug\StudentDataImport.csproj.AssemblyReference.cache
+C:\Users\MohanB\source\repos\StudentDataImport\obj\Debug\StudentDataImport.csproj.SuggestedBindingRedirects.cache
+C:\Users\MohanB\source\repos\StudentDataImport\obj\Debug\StudentDataImport.ImportTask.resources
+C:\Users\MohanB\source\repos\StudentDataImport\obj\Debug\StudentDataImport.Properties.Resources.resources
+C:\Users\MohanB\source\repos\StudentDataImport\obj\Debug\StudentDataImport.csproj.GenerateResource.cache
+C:\Users\MohanB\source\repos\StudentDataImport\obj\Debug\StudentDataImport.csproj.CoreCompileInputs.cache
+C:\Users\MohanB\source\repos\StudentDataImport\obj\Debug\StudentDataImport.exe
+C:\Users\MohanB\source\repos\StudentDataImport\obj\Debug\StudentDataImport.pdb
